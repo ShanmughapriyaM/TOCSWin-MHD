@@ -1,0 +1,5 @@
+TOCSWin-MHD has three main components
+1. TOCSwin Encoder
+2. Bottleneck Fusion
+3. Multi Scale Hierarchical Decoder
+4. Classification Head
