@@ -1,5 +1,6 @@
-This is research work to detect fall and ADL
-Dataset used are Le2i and CAUCAFall
+This is a research work to use Transformer model detect fall and ADL
+
+Dataset used to train the model are Le2i and CAUCAFall
 
 
 Le2i Dataset
